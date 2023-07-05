@@ -1,0 +1,9 @@
+.components-body{
+    width: 100%;
+    height: auto;
+    padding: 30px;
+    background-color: #051e7ac2;
+    display: flex;
+    justify-content: center;
+    overflow: auto;
+}

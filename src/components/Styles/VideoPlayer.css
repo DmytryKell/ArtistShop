@@ -1,0 +1,24 @@
+.video-item{
+    position: relative;
+    width: 700px;
+}
+.videoControls{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background: #F88307;
+}
+.videoControlsPlay{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background: #F88307;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
