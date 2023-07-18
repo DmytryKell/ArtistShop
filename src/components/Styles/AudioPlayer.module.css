@@ -3,6 +3,7 @@
 .audio_player{
     background-color: aliceblue;
     border-radius: 4px;
+    margin-top: 15px;
 }
 .inner{
     padding: 20px;

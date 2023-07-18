@@ -24,11 +24,11 @@ export function LeftNavBar({ navigationtMenuItems, contactItems }) {
           <a href="/">
             {/* <span>ArtistShop</span> */}
           </a>
-          <div className={styles.user_nav}>
+          {/* <div className={styles.user_nav}>
             <div className={styles.user_basket}>
               <div className={styles.score}></div>
             </div>
-          </div>
+          </div> */}
         </div>
         <NavLinkItems />
         <FooterLinkItems />

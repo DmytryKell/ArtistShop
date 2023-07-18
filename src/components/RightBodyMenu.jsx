@@ -19,13 +19,13 @@ export function RightBodyMenu() {
         <div className="container">
           <SearchItem />
           <Routes>
-              <Route path="/Profile" element={<Profile />} />
-              <Route path="/Music" element={<Music />} />
-              <Route path="/Video" element={<VideoPlayer />} />
-              <Route path="/Picture" element={<Picture />} />
-              <Route path="/Collections" element={<Collections />} />
-              <Route path="/Favorite" element={<Favorite />} />
-            </Routes>
+            <Route path="/Profile" element={<Profile />} />
+            <Route path="/Music" element={<Music />} />
+            <Route path="/Video" element={<VideoPlayer />} />
+            <Route path="/Picture" element={<Picture />} />
+            <Route path="/Collections" element={<Collections />} />
+            <Route path="/Favorite" element={<Favorite />} />
+          </Routes>
         </div>
       </div>
     </>
