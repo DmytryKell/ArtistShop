@@ -1,5 +1,6 @@
 import React from "react";
 import "./Styles/SearchItem.css"
+import {BiSearch} from 'react-icons/bi'
 
 export function SearchItem() {
   return (
@@ -9,8 +10,8 @@ export function SearchItem() {
         <option value="2">Video</option>
         <option value="3">Pictures</option>
       </select>
-      <input type="search" className="search-input" id="" />
-      <button>S</button>
+      <input type="search" className="search-input" placeholder="Search..." id="" />
+      <button><BiSearch size="1.5em"/></button>
     </div>
   );
 };

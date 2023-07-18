@@ -1,4 +1,5 @@
 import React from "react";
+import '../../Styles/VideoPlayer.css'
 
 export function VolumeControlers({ volume, handleVolume }) {
   return (
@@ -10,6 +11,7 @@ export function VolumeControlers({ volume, handleVolume }) {
         max="1"
         step="0.1"
         onChange={handleVolume}
+        className='videoControlsVolume'
       />
     </div>
   );

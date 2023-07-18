@@ -1,0 +1,65 @@
+
+
+.audio_player{
+    background-color: aliceblue;
+    border-radius: 4px;
+}
+.inner{
+    padding: 20px;
+}
+
+/* DisplayTrack */
+.audio_info{
+    display: flex;
+    justify-content: space-between;
+}
+.audio_image img{
+    width: 180px;
+    height: 180px;
+    background-size: cover;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.icon_wrapper{
+    
+}
+.audio_icon{
+
+}
+.text{
+    
+}
+.title{
+
+}
+
+/* Controls */
+.controls_wrapper{
+    display: flex;
+    height: 25px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+.controls{
+    /* display: flex; */
+    margin: 10px 0 12px 0;
+}
+.volume{
+    display: flex;
+    align-items: center;
+}
+
+/* ProgressBar */
+.progress{
+    display: flex;
+    align-items: center;
+}
+.progress input{
+    margin: 0px 5px;
+}
+.time_current{
+
+}
+.time{
+
+}

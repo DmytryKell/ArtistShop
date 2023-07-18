@@ -1,0 +1,11 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+
+ <g>
+  <title>Layer 1</title>
+  <polyline id="svg_1" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#ff8d42" fill="none" points="13,27.09685243666172 16,24.09685243666172 19,27.09685243666172 " class="st0"/>
+  <polyline id="svg_2" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#ff8d42" fill="none" points="18.999998092651367,5 15.999998092651367,8 13,5 " class="st0"/>
+  <polyline id="svg_3" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#ff8d42" fill="none" points="27.048425674438477,19 24.048425674438477,16 27.048425674438477,13 " class="st0"/>
+  <polyline id="svg_4" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#ff8d42" fill="none" points="5,13.145278930664062 8,16.145278930664062 5,19.145278930664062 " class="st0"/>
+  <path id="svg_5" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="#ff8d42" fill="none" d="m20.80179,30l-9.7,0c-5,0 -9.1,-4.1 -9.1,-9.1l0,-9.7c-0.1,-5.1 4,-9.2 9,-9.2l9.7,0c5,0 9.1,4.1 9.1,9.1l0,9.7c0.1,5.1 -4,9.2 -9,9.2z" class="st0"/>
+ </g>
+</svg>
