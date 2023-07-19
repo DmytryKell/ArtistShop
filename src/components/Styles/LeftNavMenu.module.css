@@ -6,18 +6,20 @@
 .menu_bar {
   min-height: 100vh;
   height: 100%;
-  width: 5rem;
-  background-color: #242120;
+  width: 110px;
+  /* background-color: #242120; */
+  background-color: aliceblue;
   color: #f88307;
-  position: fixed;
+  /* position: fixed; */
   transition: 0.8s;
   overflow: hidden;
 }
 
 .open_menu_bar {
-  width: 30rem;
+  width: 480px;
   transition: 0.8s;
-  background-color: #242120;
+  /* background-color: #242120; */
+  background-color: aliceblue;
 }
 
 .header_menu {
@@ -56,16 +58,16 @@
   justify-content: center;
 }
 .burger ul li {
-  background-color: #fff;
+  background-color: #f88307;
   display: block;
   width: 26px;
   height: 2px;
   margin: 3px 0;
   transition: 0.5;
 }
-.burger ul li:hover {
-  background-color: #f88307;
-}
+
+
+
 .user_basket {
   height: 34px;
   width: 34px;
@@ -147,11 +149,9 @@
 
 /* FooterBar.css */
 .footer_menu {
-  position: absolute;
   width: 100%;
   height: 80px;
-  bottom: -29px;
-  margin-bottom: 78px;
+  margin-bottom: 80px;
   border-top: 2px solid #f88307;
   z-index: 13;
 }

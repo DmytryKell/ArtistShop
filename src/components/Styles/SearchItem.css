@@ -4,8 +4,8 @@
     padding: 3px;
     display: flex;
     transition-duration: 0.4s;
-    background-color:darkgrey ;
-    border: 2px solid #f88307;
+    
+    
     border-radius: 4px;
     position: relative;
     overflow: hidden;
@@ -35,6 +35,8 @@ input[type='search']:focus{
 
 .search-block:focus-within{
     width: 100%;
+    background-color:darkgrey ;
+    border: 2px solid #f88307;
 }
 input[type='search']:focus-within{
     opacity: 1;

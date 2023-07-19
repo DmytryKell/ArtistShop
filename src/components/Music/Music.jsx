@@ -3,6 +3,8 @@ import { AudioPlayer } from './AudioPlayer'
 
 export function Music() {
   return (
-    <><AudioPlayer/></>
+    <>
+    <AudioPlayer/>
+    </>
   )
 }

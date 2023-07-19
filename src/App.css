@@ -5,3 +5,16 @@
     display: flex;
 }
 
+
+/* THEME DARK/LIGHT */
+#light{
+    background-color: aliceblue;
+}
+#dark{
+background-color: #242120;
+}
+
+
+
+
+
